@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/r3UoZ4A.gif' title='Creatorverse_V1' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/r3UoZ4A.gif' title='Creatorverse_V1' width='800' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif.
 
